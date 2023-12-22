@@ -1,0 +1,4 @@
+Dataset: 1
+Coefficients: 3.57 -3.69 0.47 
+Mean Square Error: 0.187111
+---------------------------------
